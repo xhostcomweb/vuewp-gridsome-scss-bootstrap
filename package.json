@@ -1,0 +1,18 @@
+{
+  "name": "vuewp-gridsome-scss",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-wordpress": "^0.3.0",
+    "gridsome": "^0.6.0"
+  },
+  "devDependencies": {
+    "node-sass": "4.12.0",
+    "sass-loader": "8.0.0",
+    "style-resources-loader": "1.2.1"
+  }
+}
